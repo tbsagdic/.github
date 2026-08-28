@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="tbsagdic — software that turns complex workflows into clear products" />
+  <img src="https://raw.githubusercontent.com/tbsagdic/.github/main/profile/assets/header.svg" width="100%" alt="tbsagdic — software that turns complex workflows into clear products" />
 </div>
 
 <br />
@@ -57,21 +57,6 @@ Web platformları, operasyon araçları ve masaüstü otomasyonları geliştiriy
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,nodejs,python,postgres,prisma,git,github,docker&perline=6" alt="TypeScript, JavaScript, Next.js, React, Tailwind CSS, Node.js, Python, PostgreSQL, Prisma, Git, GitHub ve Docker" />
-</div>
-
-## GitHub özeti
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tbsagdic&show_icons=true&hide_border=true&bg_color=00000000&title_color=22d3ee&text_color=cbd5e1&icon_color=a78bfa&rank_icon=github" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=tbsagdic&show_icons=true&hide_border=true&bg_color=00000000&title_color=0891b2&text_color=334155&icon_color=7c3aed&rank_icon=github" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=tbsagdic&show_icons=true&hide_border=true&bg_color=00000000&title_color=22d3ee&text_color=cbd5e1&icon_color=a78bfa&rank_icon=github" alt="tbsagdic GitHub istatistikleri" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tbsagdic&layout=compact&hide_border=true&bg_color=00000000&title_color=22d3ee&text_color=cbd5e1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tbsagdic&layout=compact&hide_border=true&bg_color=00000000&title_color=0891b2&text_color=334155" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tbsagdic&layout=compact&hide_border=true&bg_color=00000000&title_color=22d3ee&text_color=cbd5e1" alt="En çok kullanılan diller" />
-  </picture>
 </div>
 
 ---

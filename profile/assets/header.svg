@@ -1,0 +1,68 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="62" y1="15" x2="1147" y2="350" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.52" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#10102A"/>
+    </linearGradient>
+    <linearGradient id="line" x1="168" y1="75" x2="1023" y2="292" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(244 80) rotate(34) scale(389 272)">
+      <stop stop-color="#22D3EE" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1010 302) rotate(-146) scale(441 267)">
+      <stop stop-color="#A78BFA" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur" x="-30" y="-30" width="1260" height="420" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <clipPath id="clip"><rect width="1200" height="360" rx="28"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="360" fill="url(#bg)"/>
+    <rect width="1200" height="360" fill="url(#glowA)"/>
+    <rect width="1200" height="360" fill="url(#glowB)"/>
+
+    <g opacity="0.16">
+      <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200M0 300H1200" stroke="#94A3B8" stroke-width="0.7"/>
+      <path d="M120 0V360M240 0V360M360 0V360M480 0V360M600 0V360M720 0V360M840 0V360M960 0V360M1080 0V360" stroke="#94A3B8" stroke-width="0.7"/>
+    </g>
+
+    <circle cx="1052" cy="66" r="116" fill="#22D3EE" fill-opacity="0.07" filter="url(#blur)"/>
+    <circle cx="102" cy="332" r="136" fill="#A78BFA" fill-opacity="0.08" filter="url(#blur)"/>
+
+    <g transform="translate(85 87)">
+      <rect x="0.75" y="0.75" width="74.5" height="74.5" rx="19.25" fill="#0F1B2D" stroke="url(#line)" stroke-width="1.5"/>
+      <path d="M27 26L15 38L27 50M49 26L61 38L49 50M43 18L33 58" stroke="url(#line)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+
+    <text x="85" y="218" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-2">tbsagdic</text>
+    <rect x="85" y="239" width="88" height="4" rx="2" fill="url(#line)"/>
+    <text x="85" y="291" fill="#AEBACB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" letter-spacing="0.2">BUILDING CLEAR PRODUCTS FROM COMPLEX WORKFLOWS</text>
+
+    <g opacity="0.92" transform="translate(833 82)">
+      <path d="M0 24H54L75 45H146" stroke="url(#line)" stroke-width="2"/>
+      <circle cx="0" cy="24" r="5" fill="#22D3EE"/>
+      <circle cx="146" cy="45" r="5" fill="#A78BFA"/>
+      <path d="M43 96H93L116 119H208" stroke="url(#line)" stroke-width="2"/>
+      <circle cx="43" cy="96" r="5" fill="#22D3EE"/>
+      <circle cx="208" cy="119" r="5" fill="#A78BFA"/>
+      <path d="M10 174H82L103 153H183" stroke="url(#line)" stroke-width="2"/>
+      <circle cx="10" cy="174" r="5" fill="#22D3EE"/>
+      <circle cx="183" cy="153" r="5" fill="#A78BFA"/>
+      <rect x="145" y="34" width="76" height="22" rx="11" fill="#111D30" stroke="#64748B" stroke-opacity="0.6"/>
+      <text x="183" y="49" text-anchor="middle" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" letter-spacing="1.1">SHIP</text>
+      <rect x="207" y="108" width="89" height="22" rx="11" fill="#111D30" stroke="#64748B" stroke-opacity="0.6"/>
+      <text x="251.5" y="123" text-anchor="middle" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" letter-spacing="1.1">ITERATE</text>
+      <rect x="182" y="142" width="82" height="22" rx="11" fill="#111D30" stroke="#64748B" stroke-opacity="0.6"/>
+      <text x="223" y="157" text-anchor="middle" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" letter-spacing="1.1">BUILD</text>
+    </g>
+
+    <rect x="0.75" y="0.75" width="1198.5" height="358.5" rx="27.25" stroke="url(#line)" stroke-opacity="0.35" stroke-width="1.5"/>
+  </g>
+</svg>
